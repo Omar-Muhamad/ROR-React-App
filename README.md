@@ -22,9 +22,7 @@ You must have `Git`, `npm`, `ruby`, `rails`, and `PostgreSQL` installed in your 
 ### 2- Setup
 Run either of the following commands to clone the repository locally:
 ```
-~~~bash
 git clone https://github.com/Omar-Muhamad/hello-rails-back-end
-~~~
 ```
 ### 3- Install
 Run `npm i` to install all the necessary dependencies.
