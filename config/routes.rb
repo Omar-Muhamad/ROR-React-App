@@ -8,5 +8,7 @@ Rails.application.routes.draw do
     !req.xhr? && req.format.html?
   end
 
+  # resources :greetings, only: [:index]
+
   root "static#index"
 end
