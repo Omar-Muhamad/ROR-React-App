@@ -1,24 +1,56 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails API backendend 
 
-Things you may want to cover:
+> This is a practice project of making site using rails, react-rails, and webpacker gems .
 
-* Ruby version
+here is the link to the [frontend react app](https://github.com/Omar-Muhamad/hello-react-front-end).
 
-* System dependencies
+## Built With :gear:
 
-* Configuration
+- Ruby.
+- Rails.
+- gem 'react-rails'
+- gem 'webpacker'
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+### 1- Prerequisites
+You must have `Git`, `npm`, `ruby`, `rails`, and `PostgreSQL` installed in your machine.
+### 2- Setup
+Run either of the following commands to clone the repository locally:
+```
+~~~bash
+git clone https://github.com/Omar-Muhamad/hello-rails-back-end
+~~~
+```
+### 3- Install
+Run `npm i` to install all the necessary dependencies.
+Run `bundle i` to install all the necessary gems.
+Run `rails db:reset` to drop, create, migrate, and seed data to the database 
+### 4- Run live server
+Run ` ./bin/webpack-dev-server` to run the webpack dev live server (Run that first).
+Run `rails s` to run the Rails live server.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Author
 
-* Deployment instructions
+👤 **Omar Muhammad**
 
-* ...
+- GitHub: [Omar-Muhamad](https://github.com/Omar-Muhamad)
+- Twitter: [@Eng_OmarMuhamad](https://twitter.com/Eng_OmarMuhamad)
+- LinkedIn: [@eng-omarmuhammad](https://www.linkedin.com/in/eng-omarmuhammad/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
